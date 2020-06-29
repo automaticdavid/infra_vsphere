@@ -1,2 +1,2 @@
 [all]
-rockie 116.202.123.131
+rockie ansible_host=116.202.123.131
