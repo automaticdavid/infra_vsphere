@@ -1,6 +1,7 @@
-[all]
 [webservers]
+
 [eap]
+
 [acme]
 webserver
 eap 
