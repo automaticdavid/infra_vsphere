@@ -1,2 +1,6 @@
 [all]
-rockie ansible_host=116.202.123.131
+[webservers]
+[eap]
+[acme]
+webservers
+eap 
