@@ -1,0 +1,6 @@
+my_app_1: index.html
+my_app_config: 
+  - toto
+  - tutu: 
+      a:1
+      b:2
