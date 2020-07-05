@@ -1,7 +1,12 @@
-[webserver]
+all: 
+    hosts:
+    children:   # key order does not matter, indentation does
+        acme:
+            children:
+                dev:
+                eap:
+                webserver:
+        dev:
+        eap: 
+        webserver: 
 
-[eap]
-
-[acme]
-webserver
-eap 
