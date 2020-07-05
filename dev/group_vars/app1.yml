@@ -1,6 +1,5 @@
-my_app_1: index.html
-my_app_config: 
-  - toto
-  - tutu: 
-      a:1
-      b:2
+global_context: TERMINATOR
+app: 
+  app_name: terminator_v1
+  app_config: give me your boots, your gun, and your motorcycle
+  
