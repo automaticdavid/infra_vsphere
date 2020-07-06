@@ -1,1 +1,2 @@
-my_def: 3
+apache_version: latest
+apache_index: /var/www/index.html
