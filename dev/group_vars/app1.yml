@@ -1,14 +1,14 @@
-global_context: movie_machine
-
-vmw_project: terminator
-vmw_role: webserver
-vmw_env: demo
-vmw_service: app1
-vmw_count: 1
-
-app: 
-  app_name: terminator_v1
-  app_config: 
+service_config:
+  vm: 
+    project: terminator
+    role: webserver
+    env: demo
+    service: app1
+    count: 1
+  app: 
+    name: terminator_v1
     quote: give me your boots, your gun, and your motorcycle
     version: 2 
+  global: 
+    context: movie_machine
   
