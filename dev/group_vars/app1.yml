@@ -5,6 +5,7 @@ service_config:
     env: demo
     service: app1
     count: 1
+    size: small
   app: 
     name: terminator_v1
     quote: give me your boots, your gun, and your motorcycle
