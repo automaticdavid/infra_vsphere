@@ -10,5 +10,5 @@ app:
   app_name: terminator_v1
   app_config: 
     quote: give me your boots, your gun, and your motorcycle
-    version: 1 
+    version: 2 
   
