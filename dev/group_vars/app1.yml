@@ -8,5 +8,7 @@ vmw_count: 1
 
 app: 
   app_name: terminator_v1
-  app_config: give me your boots, your gun, and your motorcycle
+  app_config: 
+    quote: give me your boots, your gun, and your motorcycle
+    version: 1 
   
