@@ -1,0 +1,6 @@
+[services:children]
+app1
+
+[app1]
+host1
+
