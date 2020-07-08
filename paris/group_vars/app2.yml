@@ -8,6 +8,6 @@ service_config:
   app: 
     name: starwars_v1
     quote: use the force, Luke !
-    version: 1 
+    version: 2 
   global: 
     context: movie_machine
