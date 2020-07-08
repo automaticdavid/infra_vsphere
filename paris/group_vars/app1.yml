@@ -2,7 +2,6 @@ service_config:
   vm: 
     project: terminator
     role: webserver
-    env: demo
     service: app1
     count: 1
     size: small
