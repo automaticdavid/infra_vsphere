@@ -1,4 +1,3 @@
 apache_index: /var/www/html/index.html
-# apache_version: httpd-2.4.6-93.el7.centos
-apache_version: httpd-2.4.35-5.el7
+apache_version: httpd-2.4.6-93.el7.centos
 
