@@ -1,0 +1,13 @@
+service_config:
+  vm: 
+    project: starwars
+    role: webserver
+    service: app2
+    count: 1
+    size: medium
+  app: 
+    name: starwars_v1
+    quote: use the force, Luke !
+    version: 1 
+  global: 
+    context: movie_machine
