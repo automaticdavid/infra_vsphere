@@ -8,7 +8,7 @@ service_config:
   app: 
     name: terminator_v1
     quote: give me your boots, your gun, and your motorcycle
-    version: 1 
+    version: 2 
   global: 
     context: movie_machine
   
